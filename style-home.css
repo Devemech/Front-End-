@@ -1,0 +1,57 @@
+.titulo-principal{
+    padding-left: 30px;
+
+}
+
+#banner{  /* selectores de identificacion # */
+
+    width: 100%;
+
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;  /** Espaciamiento interno de los elementos **/
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    
+}
+ 
+
+em strong{   /** selector de etiquetas **/
+    color: red;
+}
+ 
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+
+.items{   /** se coloca el punto para referencia a una clase o selector **/
+
+    font-style: italic;
+}
+
+ul{
+    display: inline-block; /* le estamos diciendo que ocupe solo el espacio de su contenido */
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+
+}
